@@ -8,8 +8,8 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* Невалидные номера карт платежной системы Diners Club - International (https://github.com/semenovaNatalya/1_JAVA_1/issues/10) 
-* Невалидные номера карт ПС American Express (AMEX)  (https://github.com/semenovaNatalya/1_JAVA_1/issues/4)
+* Нерабочий код с номерами карт платежной системы Diners Club - International (https://github.com/semenovaNatalya/1_JAVA_1/issues/10) 
+* Нерабочий код с номерами карт ПС American Express (AMEX)  (https://github.com/semenovaNatalya/1_JAVA_1/issues/4)
 * Невалидный 19-значный номер карты платежной системы VISA (https://github.com/semenovaNatalya/1_JAVA_1/issues/11)
 
 
